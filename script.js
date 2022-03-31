@@ -13,7 +13,7 @@ function generatePassword() {
   var randochar = "";
     if (lowercase == true) {randochar = randochar + "abcdefghijklmnopqrstuvwxyz"};
     if (uppercase == true) {randochar = randochar + "ABCDEFGHIJKLMNOPQRSTUVWXYZ"};
-    if (number == true) {randochar = randochar + "0","1", "2", "3", "4", "5", "6", "7", "8", "9"};
+    if (number == true) {randochar = randochar + ("0, 1, 2, 3, 4, 5, 6, 7, 8, 9")};
     if (special == true) {randochar = randochar + "!@#$%^&*(/?"};
   
   for (var i = 0; i < charnumber; i++) {
