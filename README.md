@@ -7,3 +7,6 @@ This solves my problem of having poor passwords. While creating this masterpiece
  ![When you first enter](assets/images/1.png)
  ![When you first enter](assets/images/2.png)
  ![When you first enter](assets/images/3.png)
+
+ Link to page: https://jessemarino.github.io/the_super_generator/
+ 
